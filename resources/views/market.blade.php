@@ -1,0 +1,4 @@
+
+
+@extends('market.index')
+
